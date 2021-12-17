@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 #include <bits/stdc++.h>
 using namespace std;
-string const key = "BADC";
+string const key = "CADB";
 map<int,int> keyMap;
 /*-------------------------------LAYER 3--------------------------------------------------*/
 void setPermutationOrder()
